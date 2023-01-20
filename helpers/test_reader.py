@@ -1,4 +1,4 @@
-from helpers.inputs import DataReader
+from helpers.reader import DataReader
 
 class TestAocData():
     def test_from_str(self):

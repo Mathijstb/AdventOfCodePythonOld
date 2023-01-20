@@ -3,13 +3,13 @@ import os
 from parameterized import parameterized
 import regex
 
-from helpers.inputs import DataReader
+from helpers.reader import DataReader
 
 
-class Day1():
+class Day1:
 
-    def __init__(self, data):
-        self.data = data[0]
+    def __init__(self, input_data):
+        self.data = input_data[0]
 
     def solve1(self):
         pattern = regex.compile(r"(.)\1")
