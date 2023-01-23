@@ -4,7 +4,7 @@ from parameterized import parameterized
 from helpers.reader import DataReader
 
 
-class Day1:
+class Day3:
 
     def __init__(self, input_data):
         self.data = input_data
@@ -17,9 +17,9 @@ class Day1:
 
 
 if __name__ == "__main__":
-    file = os.path.join('data/input2.csv')
+    file = os.path.join('data/input3.csv')
     data = DataReader.from_file(file)
-    P = Day1(data)
+    P = Day3(data)
     print(P.solve1())
     print(P.solve2())
 
@@ -29,12 +29,12 @@ class Test:
         ["0", "0"],
     ])
     def test_part_1(self, sample, expected):
-        p = Day1(DataReader.from_str(sample))
+        p = Day3(DataReader.from_str(sample))
         assert p.solve1() == expected
 
     @parameterized.expand([
         ["0", "0"],
     ])
     def test_part_2(self, sample, expected):
-        p = Day1(DataReader.from_str(sample))
+        p = Day3(DataReader.from_str(sample))
         assert p.solve2() == expected

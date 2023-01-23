@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/puzzles/2017/data/input3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

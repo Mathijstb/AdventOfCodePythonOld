@@ -4,7 +4,8 @@ from helpers.reader import DataReader
 from parameterized import parameterized
 import itertools
 
-class Day1:
+
+class Day2:
 
     def __init__(self, input_data):
         self.data = list([[int(i) for i in line.split()] for line in input_data])
@@ -24,7 +25,7 @@ class Day1:
 if __name__ == "__main__":
     file = os.path.join('data/input2.csv')
     data = DataReader.from_file(file)
-    P = Day1(data)
+    P = Day2(data)
     print(P.solve1())
     print(P.solve2())
 
@@ -36,7 +37,7 @@ class Test:
          "2 4 6 8", 18]
     ])
     def test_part_1(self, sample, expected):
-        p = Day1(DataReader.from_str(sample))
+        p = Day2(DataReader.from_str(sample))
         assert p.solve1() == expected
 
     @parameterized.expand([
@@ -45,5 +46,5 @@ class Test:
          "3 8 6 5", 9]
     ])
     def test_part_2(self, sample, expected):
-        p = Day1(DataReader.from_str(sample))
+        p = Day2(DataReader.from_str(sample))
         assert p.solve2() == expected
