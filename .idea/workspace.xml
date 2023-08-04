@@ -78,8 +78,8 @@
       <recent name="$PROJECT_DIR$/src/2017" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for day1.Test">
-    <configuration name="Python tests for day1.Test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in day1.py">
+    <configuration name="Python tests for day2.Test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="AdventOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +90,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;day1.Test&quot;" />
+      <option name="_new_target" value="&quot;day2.Test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for day1.Test.test_part_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for day3.Test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="AdventOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +105,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;day1.Test.test_part_1&quot;" />
+      <option name="_new_target" value="&quot;day3.Test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -124,45 +124,43 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for day1.Test.test_part_1_0_1122" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in day2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="AdventOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="/usr/local/bin/python3.11" />
-      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2017" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;day1.Test.test_part_1_0_1122&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/2017/day2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for day1.Test.test_part_2_0_1212" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in day3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="AdventOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="/usr/local/bin/python3.11" />
-      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2017" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;day1.Test.test_part_2_0_1212&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/2017/day3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for day1.Test" />
-        <item itemvalue="Python tests.Python tests for day1.Test.test_part_1" />
-        <item itemvalue="Python tests.Unittests for day1.Test.test_part_2_0_1212" />
-        <item itemvalue="Python tests.Unittests for day1.Test.test_part_1_0_1122" />
         <item itemvalue="Python tests.Python tests in day1.py" />
+        <item itemvalue="Python tests.Python tests in day3.py" />
+        <item itemvalue="Python tests.Python tests in day2.py" />
+        <item itemvalue="Python tests.Python tests for day2.Test" />
+        <item itemvalue="Python tests.Python tests for day3.Test" />
       </list>
     </recent_temporary>
   </component>
