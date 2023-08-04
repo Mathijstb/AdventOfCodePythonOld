@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8a6d997-7aae-4f39-813e-a1257a79744a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AdventOfCodePython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2017/day1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/reader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/test_reader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzles/2017/data/input1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/2017/data/input1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzles/2017/data/input2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/2017/data/input2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzles/2017/data/input3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/2017/data/input3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzles/2017/day1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzles/2017/day2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzles/2017/day3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzles/2017/day_template.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2TWXucViowIXrDHTsJu8YDW0tM2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/2017" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for day1.Test">
+    <configuration name="Python tests for day1.Test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2017" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;day1.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for day1.Test.test_part_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2017" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;day1.Test.test_part_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in day1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2017" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/2017/day1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for day1.Test.test_part_1_0_1122" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.11" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2017" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;day1.Test.test_part_1_0_1122&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for day1.Test.test_part_2_0_1212" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.11" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2017" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;day1.Test.test_part_2_0_1212&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for day1.Test" />
+        <item itemvalue="Python tests.Python tests for day1.Test.test_part_1" />
+        <item itemvalue="Python tests.Unittests for day1.Test.test_part_2_0_1212" />
+        <item itemvalue="Python tests.Unittests for day1.Test.test_part_1_0_1122" />
+        <item itemvalue="Python tests.Python tests in day1.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8a6d997-7aae-4f39-813e-a1257a79744a" name="Changes" comment="" />
+      <created>1691160034393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691160034393</updated>
+      <workItem from="1691160035500" duration="1389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AdventOfCodePython$.coverage" NAME=" Coverage Results" MODIFIED="1691161415744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2017" />
+    <SUITE FILE_PATH="coverage/AdventOfCodePython$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1691160951589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2017" />
+  </component>
+</project>

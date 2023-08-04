@@ -1,15 +1,14 @@
 import os
+from unittest import TestCase
 
 from parameterized import parameterized
 import regex
 
-from helpers.reader import DataReader
-
 
 class Day1:
 
-    def __init__(self, input_data):
-        self.data = input_data[0]
+    def __init__(self, data):
+        self.data = data
 
     def solve1(self):
         pattern = regex.compile(r"(.)\1")
@@ -30,14 +29,11 @@ class Day1:
 
 
 if __name__ == "__main__":
-    file = os.path.join('data/input1.csv')
-    data = DataReader.from_file(file)
-    P = Day1(data)
-    print(P.solve1())
-    print(P.solve2())
+    print(Day1('1234').solve1())
+    print(Day1('1234').solve2())
 
 
-class Test:
+class Test(TestCase):
     @parameterized.expand([
         ["1122", 3],
         ["1111", 4],
@@ -45,7 +41,7 @@ class Test:
         ["91212129", 9]
     ])
     def test_part_1(self, sample, expected):
-        p = Day1(DataReader.from_str(sample))
+        p = Day1(sample)
         assert p.solve1() == expected
 
     @parameterized.expand([
@@ -56,5 +52,5 @@ class Test:
         ["12131415", 4]
     ])
     def test_part_2(self, sample, expected):
-        p = Day1(DataReader.from_str(sample))
+        p = Day1(sample)
         assert p.solve2() == expected
